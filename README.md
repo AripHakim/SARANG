@@ -1,2 +1,4 @@
 # SARANG
 SARANG : Sampah Terang
+
+FAK : FAKTUAL, ANALITIK, KONKRIT

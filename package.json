@@ -1,7 +1,7 @@
 {
   "name": "sarang",
   "version": "1.0.0",
-  "description": "",
+  "description": "SARANG : Sampah Terang",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,7 +21,7 @@
     "eslint-plugin-import": "^2.27.5",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.2",
-    "webpack": "^5.83.1",
+    "webpack": "^5.87.0",
     "webpack-cli": "^5.1.1",
     "webpack-dev-server": "^4.15.0",
     "webpack-merge": "^5.8.0"
@@ -30,5 +30,14 @@
     "@fortawesome/fontawesome-free": "^6.4.0",
     "font-awesome": "^4.7.0",
     "regenerator-runtime": "^0.13.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AripHakim/SARANG.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AripHakim/SARANG/issues"
+  },
+  "homepage": "https://github.com/AripHakim/SARANG#readme"
 }

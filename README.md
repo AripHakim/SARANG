@@ -4,13 +4,13 @@
 
 # Demo
 
-### Silahkan Kunjungi website kami : [SARANG](https://sampah-terang.netlify.app/ "Sampah Terang").
+Silahkan Kunjungi website kami : [SARANG](https://sampah-terang.netlify.app/ "Sampah Terang").
 
 # Team
 
-### Team ID : C23-M4003
+Team ID : C23-M4003
 
-### Anggota Kelompok :
+Anggota Kelompok :
 
 - Arief Rahman Hakim - F037XA050
 - Ida Ayu Putu Inggita Anindya - F060YA278

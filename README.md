@@ -1,6 +1,6 @@
 ![Beranda](src/public/logo.png)
-
-### Sampah Terang mengajak masyarakat untuk mengubah sampah menjadi sumber cahaya atau inspirasi yang terang dan positif. Tujuan utama dari website ini adalah untuk mengedukasi masyarakat tentang pentingnya daur ulang sampah, serta memberikan panduan yang jelas dan mudah diakses tentang cara melakukannya dengan benar.
+# About Sarang
+Sampah Terang mengajak masyarakat untuk mengubah sampah menjadi sumber cahaya atau inspirasi yang terang dan positif. Tujuan utama dari website ini adalah untuk mengedukasi masyarakat tentang pentingnya daur ulang sampah, serta memberikan panduan yang jelas dan mudah diakses tentang cara melakukannya dengan benar.
 
 # Demo
 

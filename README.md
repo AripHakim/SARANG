@@ -6,6 +6,12 @@ Sampah Terang mengajak masyarakat untuk mengubah sampah menjadi sumber cahaya at
 
 Silahkan Kunjungi website kami : [SARANG](https://sampah-terang.netlify.app/ "Sampah Terang").
 
+Halaman Admin : [Admin](https://sampah-terang.netlify.app/#/login-admin "Halaman Admin").
+
+Username : admin
+
+Password : 12345
+
 # Team
 
 Team ID : C23-M4003
